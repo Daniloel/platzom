@@ -1,0 +1,31 @@
+{
+  "name": "danieeis/platzom",
+  "version": "0.1.0",
+  "description": "Translate of the idiom platzom",
+  "main": "dist/source/platzom.js",
+  "scripts": {
+    "build": "babel source/platzom.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniloel/platzom.git"
+  },
+  "keywords": [
+    "platzom",
+    "js",
+    "platzi\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~"
+  ],
+  "author": "Daniel Tovar <danieldaniyyelda@gmail.com> (https://twitter.com/danieeis)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daniloel/platzom/issues"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
